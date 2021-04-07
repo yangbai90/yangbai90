@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub page!
+
+[![Yang Bai‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=yangbai90&show_icons=true&hide_border=true&hide_title=true)](https://github.com/yangbai90)
+
+
 
 <!--
 **yangbai90/yangbai90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
